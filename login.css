@@ -1,0 +1,15 @@
+
+#panel{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 40%;
+}
+
+#footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
