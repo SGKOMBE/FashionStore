@@ -22,6 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
+<?php 
+  //For github understanding that it is a php file.   
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
